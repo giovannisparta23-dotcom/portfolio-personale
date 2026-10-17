@@ -1,0 +1,10 @@
+# Dipendenze installate localmente
+node_modules/
+
+# File di sistema e dell'editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# File temporanei
+*.log
